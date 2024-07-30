@@ -15,7 +15,7 @@ The script navigates through the Wallhaven website, a popular source for high-qu
 Clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/mooteee/wall-dl.git
+git clone https://github.com/M00t3/wall-dl.git
 ```
 
 Navigate to the cloned repository:
